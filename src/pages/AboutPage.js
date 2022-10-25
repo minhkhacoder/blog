@@ -3,7 +3,7 @@
 import React from "react";
 
 const AboutPage = () => {
-  return <div>Update file AboutPage in branch minhkha</div>;
+  return <div>Conflict file</div>;
 };
 
 export default AboutPage;
